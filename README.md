@@ -17,7 +17,7 @@
 
 ---
 
-<p>⦁ <strong>Kyung Hee University</strong> · <em>B.S. Computer Science & Immersive Media </em> · 2020 – 2026</p>
+<p>⦁ <strong>Kyung Hee University</strong> · <em>B.S. Computer Science </em> · 2020 – 2026</p>
 
 <br>
 
