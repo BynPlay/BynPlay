@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&color=70FFC3&center=true&vCenter=true&lines=Jaehyun+Byun)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&color=0223F7FF&center=true&vCenter=true&lines=Jaehyun+Byun)](https://git.io/typing-svg)
 
 
 </div>
