@@ -56,6 +56,17 @@
 - 🌍 Accepted to **ACM Symposium on User Interface Software and Technology** 2025 Poster & **ISMAR** 2025 Demo [[Video]](https://www.youtube.com/watch?v=j1E37wnWhfA)
 - Conducted at **[Interactive Technology & Methodology Lab (ITEM Lab)](https://hci.khu.ac.kr/)** & **[User eXperience Computing Lab (UXC Lab)](https://uxc.khu.ac.kr/)**
 
+<br>
+
+## Research
+
+### 📊 [**컴파일럿(Calmpilot)**](https://github.com/BynPlay/Calmpilot): VR 시뮬레이션용 실시간 바이오 데이터 기반 적응형 햅틱 피드백 연구
+- **역할:** 연구 리드 & 클라이언트 개발 [1저자] | **팀 구성**: 클라이언트 1 · 백엔드 1 · 데이터 분석 1
+- **소개:** 실시간 심박 데이터를 이용해 VR 노출 치료에서 햅틱 피드백이 불안 완화에 미치는 효과를 연구. **[연구]** 임상 이완 방법 검토 및 선행 연구와 행동 치료 요법 기반 3가지 햅틱 패턴 (느린 진동, 호흡 가이드, 버터플라이 허그) 설계 **[개발]** Galaxy Watch → WebSocket → Unity → bhaptics 이종 기술 스택 간 파이프라인 구축 및 타임스탬프 동기화 기반 로그 시스템 구현 **[사용자 실험]** 3가지 조건 비교 및 데이터 분석: 호흡 가이드 햅틱이 가장 효과적
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Galaxy Watch](https://img.shields.io/badge/Galaxy_Watch-1428A0?style=flat-square&logo=samsung&logoColor=white) ![bhaptics](https://img.shields.io/badge/bhaptics-FF6B35?style=flat-square&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+- 🏆 **KCC 2024 학부생 우수논문상** & **Vietnam Mobile Summit 2024 Honored Partner Startup Exhibition** (베트남 창업 전시)
+- Conducted at **[Haptics and Virtual Reality Laboratory](http://haptics.khu.ac.kr/)**
+
 ### 🚃 [**트램스케이프 투 코리아(TramscapeToKoea)**](https://github.com/BynPlay/TramScape-To-Korea): 플레이어 움직임으로 상호작용하는 실감형 기차 여행
 - **장르:** 키넥트 게임 | **역할**: TPM & User Interaction Design | **팀 구성**: 아트 1 · 프로그래밍 4 
 - **소개:** 플레이어의 신체 움직임에 따라 창문을 들여다보듯 시점이 변화하며, 나레이션과 함께 한국의 주요 관광 명소를 탐험하는 열차 관광 게임 **[컨셉]** 2D 화면에서도 입체감을 제공하는 "창문" 인터랙션 메타포 설계 및 구현 (인지심리이론 기반) **[렌더링]** 한국 랜드마크 모델링 + HDRP 포스트 프로세싱 **[게임플레이]** 스플라인 기반 열차 이동, AI 투어 음성, 몸동작으로 창 밖 콘텐츠 시나리오 탐색
@@ -70,24 +81,11 @@
 
 <br>
 
-## Research
-
-### 📊 [**컴파일럿(Calmpilot)**](https://github.com/BynPlay/Calmpilot): VR 시뮬레이션용 실시간 바이오 데이터 기반 적응형 햅틱 피드백 연구
-- **역할:** 연구 리드 & 클라이언트 개발 [1저자] | **팀 구성**: 클라이언트 1 · 백엔드 1 · 데이터 분석 1
-- **소개:** 실시간 심박 데이터를 이용해 VR 노출 치료에서 햅틱 피드백이 불안 완화에 미치는 효과를 연구. **[연구]** 임상 이완 방법 검토 및 선행 연구와 행동 치료 요법 기반 3가지 햅틱 패턴 (느린 진동, 호흡 가이드, 버터플라이 허그) 설계 **[개발]** Galaxy Watch → WebSocket → Unity → bhaptics 이종 기술 스택 간 파이프라인 구축 및 타임스탬프 동기화 기반 로그 시스템 구현 **[사용자 실험]** 3가지 조건 비교 및 데이터 분석: 호흡 가이드 햅틱이 가장 효과적
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Galaxy Watch](https://img.shields.io/badge/Galaxy_Watch-1428A0?style=flat-square&logo=samsung&logoColor=white) ![bhaptics](https://img.shields.io/badge/bhaptics-FF6B35?style=flat-square&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-- 🏆 **KCC 2024 학부생 우수논문상** & **Vietnam Mobile Summit 2024 Honored Partner Startup Exhibition** (베트남 창업 전시)
-- Conducted at **[Haptics and Virtual Reality Laboratory](http://haptics.khu.ac.kr/)**
-
-<br>
-
 ### Programming Projects
 
 - 🎮 [**DirectX 11 Graphics Renderer**](https://github.com/BynPlay/GameGraphics-Engine-DirectX) — DirectX 11 + WINAPI 기반 커스텀 3D 렌더링 엔진 구현
 - 🌄 [**Panoramic Image Stitching**](https://github.com/BynPlay/Panoramic-Stitching) — Harris → Matching → RANSAC → Homography 파이프라인 Python 알고리즘 구현
 - ✋ [**Microgravity Hand Simulation**](https://github.com/BynPlay/Microgravity-Hand-Simualtion) — Leap Motion 기반 손 추적 미소중력 시뮬레이션 및 충돌 지점 시각화 
-
-
 
 ---
 
