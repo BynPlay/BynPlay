@@ -8,7 +8,7 @@
 
 **AI-powerd Application & Simulation Engineer**  
 
-<sub>#User Experience #Software Architecture #Computer Graphics/Vision #Sensing and Data Acquisition #VR/AR/IOT</sub>
+<sub>#User Experience #Software Architecture #Computer Graphics/Vision #VR/AR/IOT #Sensing and Data Acquisition</sub>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CV_&_Credentials-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunbyun/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bjh1750@email.com)
