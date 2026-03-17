@@ -41,6 +41,14 @@
 </div>
 
 ## **Flagship Projects**  
+
+### 🔮 [**크로스가우시안(CrossGaussian)**](https://github.com/BynPlay/CrossGaussian): 3D Gaussian Spatting 뉴럴 렌더링 기반 원격 협업 인터랙션 연구
+- **역할**: 연구 리드 & 기술 설계 및 통합 [1저자] | **팀 구성**: 게임 엔진 2 · 백엔드 2 · 데이터 분석 1
+- **소개:** 3D 뉴럴 렌더링 + 360° 영상 스트리밍을 활용해 원격 사용자 간 협업 공간 공유와 상호작용 가능성을 탐구하는 연구 프로젝트. **[연구]** 선행 연구 리뷰 및 연구 공백 확인, 3DGS 기반 공간 탐색 및 시각적 상호작용을 위한 디자인 스페이스 설계 **[개발]** Unity·HLSL 기반 게임 엔진과 Python·CUDA 파이프라인을 연동해 360° 스트리밍·영상 데이터 수집·원격 3DGS 재구성 자동화 및 렌더링 정보 기반 인터랙션 기법 구현 **[사용자 실험]** N=24 사용자 실험을 통해 렌더링 지연과 사용자 신뢰도 관계 분석 및 통계적 차이 비교
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-5E5E5E?style=flat-square&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Photon](https://img.shields.io/badge/Photon-004480?style=flat-square&logo=photon&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+- 🌍 Accepted to **ACM Symposium on User Interface Software and Technology** 2025 Poster & **ISMAR** 2025 Demo [[Video]](https://www.youtube.com/watch?v=j1E37wnWhfA)
+- Conducted at **[Interactive Technology & Methodology Lab (ITEM Lab)](https://hci.khu.ac.kr/)** & **[User eXperience Computing Lab (UXC Lab)](https://uxc.khu.ac.kr/)**
+
 ### 🧒🏻 [**아이-데아(I-there)**](https://github.com/BynPlay/i-There): AI가 제공하는 아동 ADHD 탐지 & 맞춤형 행동 발달 게임 솔루션
 - **장르:** 시리어스 게임 | **역할**: PM & Lead Dev [팀장] | **팀 구성**: 기획 2 · 아트 3 · 프로그래밍 2 · 의학 전공 및 AI 모델 개발 1
 - **소개:** 아이들이 파스텔 톤 동화 이야기 속 세계에서 미션을 수행하며, AI가 ADHD 증상을 탐지하고 행동 발달 콘텐츠를 실시간으로 맞춤 제공하는 몰입형 AR 게임. **[설계]** 8–12세 아동을 대상으로 한 스토리텔링, 아트 디렉션, DSM-5 진단 기준을 게임 시나리오로 구조화하고 사용자 플로우 설계 **[AI 시스템]** 의료 AI 모델 구축, ONNX 변환 후 게임 엔진에 실시간 연동 **[백엔드]** 사용자 행동 및 플레이 데이터를 AI 활용이 가능한 형태로 정제·모델링하고 중앙 DB 기반의 전처리 및 로그 수집·처리 파이프라인을 구축
@@ -63,13 +71,6 @@
 <br>
 
 ## Research
-
-### 🔮 [**크로스가우시안(CrossGaussian)**](https://github.com/BynPlay/CrossGaussian): 3D Gaussian Spatting 뉴럴 렌더링 기반 원격 협업 인터랙션 연구
-- **역할**: 연구 리드 & 기술 설계 및 통합 [1저자] | **팀 구성**: 게임 엔진 2 · 백엔드 2 · 데이터 분석 1
-- **소개:** 3D 뉴럴 렌더링 + 360° 영상 스트리밍을 활용해 원격 사용자 간 협업 공간 공유와 상호작용 가능성을 탐구하는 연구 프로젝트. **[연구]** 선행 연구 리뷰 및 연구 공백 확인, 3DGS 기반 공간 탐색 및 시각적 상호작용을 위한 디자인 스페이스 설계 **[개발]** Unity·HLSL 기반 게임 엔진과 Python·CUDA 파이프라인을 연동해 360° 스트리밍·영상 데이터 수집·원격 3DGS 재구성 자동화 및 렌더링 정보 기반 인터랙션 기법 구현 **[사용자 실험]** N=24 사용자 실험을 통해 렌더링 지연과 사용자 신뢰도 관계 분석 및 통계적 차이 비교
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-5E5E5E?style=flat-square&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Photon](https://img.shields.io/badge/Photon-004480?style=flat-square&logo=photon&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-- 🌍 Accepted to **ACM Symposium on User Interface Software and Technology** 2025 Poster & **ISMAR** 2025 Demo [[Video]](https://www.youtube.com/watch?v=j1E37wnWhfA)
-- Conducted at **[Interactive Technology & Methodology Lab (ITEM Lab)](https://hci.khu.ac.kr/)** & **[User eXperience Computing Lab (UXC Lab)](https://uxc.khu.ac.kr/)**
 
 ### 📊 [**컴파일럿(Calmpilot)**](https://github.com/BynPlay/Calmpilot): VR 시뮬레이션용 실시간 바이오 데이터 기반 적응형 햅틱 피드백 연구
 - **역할:** 연구 리드 & 클라이언트 개발 [1저자] | **팀 구성**: 클라이언트 1 · 백엔드 1 · 데이터 분석 1
