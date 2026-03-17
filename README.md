@@ -43,7 +43,7 @@
 
 </div>
 
-## **Flagship Projects**  
+## **Flagship Lead Projects**  
 
 ### 🧒🏻 [**아이-데아(I-there)**](https://github.com/BynPlay/i-There): AI가 제공하는 아동 ADHD 탐지 & 맞춤형 행동 발달 게임 솔루션
 - **장르:** 시리어스 게임 | **역할**: PM & Lead Dev [팀장] | **팀 구성**: 기획 2 · 아트 3 · 프로그래밍 2 · 의학 전공 및 AI 모델 개발 1
