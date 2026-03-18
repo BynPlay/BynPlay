@@ -88,11 +88,11 @@
 
 - 🎮 [**DirectX 11 Graphics Renderer**](https://github.com/BynPlay/GameGraphics-Engine-DirectX) — DirectX 11 + WINAPI 기반 커스텀 3D 렌더링 엔진 구현 실습
 - 🌄 [**Panoramic Image Stitching**](https://github.com/BynPlay/Panoramic-Stitching) — Harris → Matching → RANSAC → Homography 파이프라인 Python 알고리즘 구현 실습
-- ✋ [**Microgravity Hand Simulation**](https://github.com/BynPlay/Microgravity-Hand-Simualtion) — Leap Motion 기반 손 추적 미소중력 시뮬레이션 및 충돌 지점 시각화 프로젝트
 - 🦿 [**Unreal Engine Kinematics**](https://github.com/DevByn/Kinematics-Unreal) 언리얼 엔진 블루프린트 기반 FK/IK 로보틱스 시뮬레이션 구현 실습
 - 📉 [**Handtracking LSTM Optimization**](https://github.com/DevByn/LSTM-HandTracking) IMU 데이터셋, LSTM 모델 기반 핸드트레킹 예측 최적화 실습
 - ⚡ [**Object-oriented 4D Convolution Engine**](https://github.com/DevByn/CNN-Implementation) 이미지 해상도 향상을 위한 4차원 컨볼루션 연산 객체지향 방식 구현 실습
-- 👁️ [**Handtracking LSTM Optimization**](https://github.com/DevByn/LSTM-HandTracking) 메타 퀘스트 프로 Lay Casting 기반 아이트레킹 오브젝트 상호작용 알고리즘 구현
+- ✋ [**Microgravity Hand Simulation**](https://github.com/BynPlay/Microgravity-Hand-Simualtion) — Leap Motion 기반 손 추적 미소중력 시뮬레이션 및 충돌 지점 시각화 프로젝트
+- 👁️ [**Handtracking LSTM Optimization**](https://github.com/DevByn/LSTM-HandTracking) 메타 퀘스트 프로 Lay Casting 기반 아이트레킹 오브젝트 상호작용 알고리즘 구현 프로젝트
 ---
 
 ## **Publication**
