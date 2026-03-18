@@ -10,8 +10,6 @@
 
 <sub>#User Experience #Software Architecture #Computer Graphics/Vision #VR/AR/IOT #Sensing and Data Acquisition</sub>
 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bjh1750@email.com)
-
 </div>
 
 ---
