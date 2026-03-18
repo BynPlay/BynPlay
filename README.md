@@ -60,7 +60,7 @@
 
 <br>
 
-## Research
+## Side Projects
 
 ### 📊 [**컴파일럿(Calmpilot)**](https://github.com/BynPlay/Calmpilot): VR 시뮬레이션용 실시간 바이오 데이터 기반 적응형 햅틱 피드백 연구
 - **역할:** 연구 리드 & 클라이언트 개발 [1저자] | **팀 구성**: 클라이언트 1 · 백엔드 1 · 데이터 분석 1
