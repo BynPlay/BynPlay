@@ -111,6 +111,8 @@ Extended Abstracts of the 2025 **CHI Conference on Human Factors in Computing Sy
 
 ---
 
+<div align="center">
+
 ## **Training & Programs**
 
 🎮 **DigiPen Institute of Technology** · Global Game Design Summer Program  
@@ -118,6 +120,8 @@ Redmond, USA · July 2024
 
 👥 **Posts & Telecommunications Institute of Technology** · [CAU-PTIT International Hackathon](https://english.ptit.edu.vn/students-of-ptit-and-4-top-korean-universities-compete-in-the-field-of-multimedia-at-the-ptit-cau-hackathon-2024/)   
 Hanoi, Vietnam · May 2024
+
+</div>
 
 ---
 
