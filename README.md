@@ -46,7 +46,7 @@
 ## **Flagship Lead Projects**  
 
 ### 🧒🏻 [**아이-데아(I-there)**](https://github.com/BynPlay/i-There): AI가 제공하는 아동 ADHD 탐지 & 맞춤형 행동 발달 게임 솔루션
-- **역할**: Lead Dev & PM [팀장] | **팀 구성**: 기획 2 · 디자인 3 · 프로그래밍 2 · 의학 전공 및 AI 모델 개발 1
+- **역할**: 리드 개발자 & PM [팀장] | **팀 구성**: 기획 2 · 디자인 3 · 프로그래밍 2 · 의학 전공 및 AI 모델 개발 1
 - **소개:** 아이들이 파스텔 톤 동화 이야기 속 세계에서 미션을 수행하며, AI가 ADHD 증상을 탐지하고 행동 발달 콘텐츠를 실시간으로 맞춤 제공하는 몰입형 AR 콘텐츠. **[설계]** 8–12세 아동을 대상으로 한 스토리텔링, 아트 디렉션, 18개 DSM-5 진단 기준을 디지털 지표로 구조화하고 사용자 플로우 설계 **[클라이언트]** 아동용 플레이 콘텐츠 구현, 의료 AI 모델 구축 및 ONNX 변환 후 온디바이스에 연동 **[백엔드]** 사용자 행동 및 플레이 데이터를 AI 활용이 가능한 형태로 전처리·정규화하고 중앙 DB 기반의 로그 수집·처리 파이프라인을 구축
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) 
 - 🏆 **과학기술정보통신부** 주최 2024 XR 디바이스 콘텐츠 메이커톤 **정보통신산업진흥원장상** (2위, 팀장)  
