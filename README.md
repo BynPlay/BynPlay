@@ -8,7 +8,7 @@
 
 **AI-powerd Application & UI/UX Developer**  
 
-<sub>#User Experience #Software Architecture #Computer Graphics/Vision #VR/AR/IOT #Sensing and Data Acquisition</sub>
+<sub>#User Experience #Software Architecture #Project Managing #Computer Graphics/Vision #VR/AR/IOT #Sensing and Data Acquisition</sub>
 
 </div>
 
