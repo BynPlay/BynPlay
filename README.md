@@ -6,7 +6,7 @@
 
 </div>
 
-**AI-powerd Application & Simulation Engineer**  
+**AI-powerd Application & UI/UX Engineer**  
 
 <sub>#User Experience #Software Architecture #Computer Graphics/Vision #VR/AR/IOT #Sensing and Data Acquisition</sub>
 
