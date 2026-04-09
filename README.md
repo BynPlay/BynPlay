@@ -58,7 +58,7 @@
 
 ## Side Projects
 
-### 📊 [**컴파일럿(Calmpilot)**](https://github.com/BynPlay/Calmpilot): IoT 실시간 바이오 데이터 및 가상 시뮬레이션 기반 적응형 햅틱 피드백 연구
+### 📊 [**컴파일럿(Calmpilot)**](https://github.com/BynPlay/Calmpilot): IoT 실시간 바이오 데이터 및 가상 현실 기반 적응형 햅틱 피드백 연구
 - **역할:** 연구 리드 & 클라이언트 개발 [1저자] | **팀 구성**: 클라이언트 1 · 백엔드 1 · 데이터 분석 1
 - **소개:** 스마트 워치의 실시간 심박 데이터를 이용해 VR 노출 치료에서 햅틱 피드백이 불안 완화에 미치는 효과를 연구. **[설계]** 임상 이완 방법 검토 및 선행 연구와 행동 치료 요법 기반 3가지 햅틱 패턴 (느린 진동, 호흡 가이드, 버터플라이 허그) 설계 **[백엔드]** Galaxy Watch → WebSocket → Unity → bhaptics 이종 기술 스택 간 파이프라인 구축 및 타임스탬프 동기화 기반 로그 시스템 개발 **[클라이언트]** 실감나는 발표 환경 및 시나리오 인터랙션 구현
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Galaxy Watch](https://img.shields.io/badge/Galaxy_Watch-1428A0?style=flat-square&logo=samsung&logoColor=white) ![bhaptics](https://img.shields.io/badge/bhaptics-FF6B35?style=flat-square&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
