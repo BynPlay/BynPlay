@@ -29,8 +29,8 @@
 
 **Design & Prototyping** · ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) 
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) 
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E84E1B?style=flat-square&logo=autodesk&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 
 **Certifications** · SQL Developer (SQLD) · Microsoft Azure AI Fundamentals (AI-900) · AI프롬프트활용능력 1급 (AI-POT)
 
