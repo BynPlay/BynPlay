@@ -6,8 +6,6 @@
 
 </div>
 
-<sub>#VR/AR/IOT #MULTIMODAL AI/LLM #HAPTICS/PHYISCAL COMPUTING</sub>
-
 </div>
 
 ---
