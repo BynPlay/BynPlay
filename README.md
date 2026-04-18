@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&center=true&weight=600&pause=1000&color=6CAAF7&width=435&lines=Human-Centric+Intelligent+System+Maker)](https://git.io/typing-svg)
 
+<a href="./CV_JaehyunByun.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=adobeacrobatreader">
+</a>
+
 </div>
 
 </div>
